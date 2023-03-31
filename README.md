@@ -1,4 +1,4 @@
-## Olá! Eu me chamo Bruno Milano. 🤩
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brnmilano&show_icons=true&theme=vue&include_all_commits=true&count_private=true&locale=pt-br"/>
