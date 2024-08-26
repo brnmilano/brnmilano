@@ -18,4 +18,4 @@
 </div>
 
 [![G-mail](https://skillicons.dev/icons?i=gmail	)](https://mail.google.com/mail/u/0/#inbox)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/brnmilano/)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/brunomilano/)
