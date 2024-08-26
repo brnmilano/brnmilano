@@ -11,7 +11,7 @@
   <h2 style="color: #9fb2e0;">Minhas tecnologias</h2>
 </div>
   
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,js,ts,react,nextjs,nodejs,jest,vitest,bash,bitbucket,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,jest,vitest,bitbucket,github,gitlab)](https://skillicons.dev)
 
 <div align="center">
   <h3 style="color: #9fb2e0;">Entre em contato comigo</h3>
