@@ -2,7 +2,7 @@
   <h1>Prazer, me chamo Bruno Milano!</h1>
 </div>
 
-<div align="center">  
+<!-- <div align="center">  
   <img
     width="49%"
     height="195px"
@@ -15,7 +15,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnmilano&layout=compact&hide_border=true&title_color=9fb2e0&text_color=ffffff&bg_color=0d1117&cache_seconds=1800"
     alt="Top Langs"
   />
-</div>
+</div> -->
 
 ---
 
