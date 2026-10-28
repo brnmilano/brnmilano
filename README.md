@@ -22,36 +22,144 @@
   <tr>
     <td align="right"><b>Front-end</b></td>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents,materialui,redux,vite&theme=light">
-        <img alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, styled-components, Material UI, Redux, Vite" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents,materialui,redux,vite&theme=dark">
+      <picture title="HTML">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html&theme=light">
+        <img title="HTML" alt="HTML" width="48" src="https://skillicons.dev/icons?i=html&theme=dark">
+      </picture>
+      <picture title="CSS">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=css&theme=light">
+        <img title="CSS" alt="CSS" width="48" src="https://skillicons.dev/icons?i=css&theme=dark">
+      </picture>
+      <picture title="JavaScript">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&theme=light">
+        <img title="JavaScript" alt="JavaScript" width="48" src="https://skillicons.dev/icons?i=js&theme=dark">
+      </picture>
+      <picture title="TypeScript">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&theme=light">
+        <img title="TypeScript" alt="TypeScript" width="48" src="https://skillicons.dev/icons?i=ts&theme=dark">
+      </picture>
+      <picture title="React">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react&theme=light">
+        <img title="React" alt="React" width="48" src="https://skillicons.dev/icons?i=react&theme=dark">
+      </picture>
+      <picture title="Next.js">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs&theme=light">
+        <img title="Next.js" alt="Next.js" width="48" src="https://skillicons.dev/icons?i=nextjs&theme=dark">
+      </picture>
+      <picture title="Tailwind CSS">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tailwind&theme=light">
+        <img title="Tailwind CSS" alt="Tailwind CSS" width="48" src="https://skillicons.dev/icons?i=tailwind&theme=dark">
+      </picture>
+      <picture title="styled-components">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=styledcomponents&theme=light">
+        <img title="styled-components" alt="styled-components" width="48" src="https://skillicons.dev/icons?i=styledcomponents&theme=dark">
+      </picture>
+      <picture title="Material UI">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=materialui&theme=light">
+        <img title="Material UI" alt="Material UI" width="48" src="https://skillicons.dev/icons?i=materialui&theme=dark">
+      </picture>
+      <picture title="Redux">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=redux&theme=light">
+        <img title="Redux" alt="Redux" width="48" src="https://skillicons.dev/icons?i=redux&theme=dark">
+      </picture>
+      <picture title="Vite">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vite&theme=light">
+        <img title="Vite" alt="Vite" width="48" src="https://skillicons.dev/icons?i=vite&theme=dark">
       </picture>
     </td>
   </tr>
   <tr>
     <td align="right"><b>Back-end</b></td>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,sequelize,mysql,postgres,mongodb&theme=light">
-        <img alt="Node.js, NestJS, Express, Prisma, Sequelize, MySQL, PostgreSQL, MongoDB" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,sequelize,mysql,postgres,mongodb&theme=dark">
+      <picture title="Node.js">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs&theme=light">
+        <img title="Node.js" alt="Node.js" width="48" src="https://skillicons.dev/icons?i=nodejs&theme=dark">
+      </picture>
+      <picture title="NestJS">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nestjs&theme=light">
+        <img title="NestJS" alt="NestJS" width="48" src="https://skillicons.dev/icons?i=nestjs&theme=dark">
+      </picture>
+      <picture title="Express">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=express&theme=light">
+        <img title="Express" alt="Express" width="48" src="https://skillicons.dev/icons?i=express&theme=dark">
+      </picture>
+      <picture title="Prisma">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=prisma&theme=light">
+        <img title="Prisma" alt="Prisma" width="48" src="https://skillicons.dev/icons?i=prisma&theme=dark">
+      </picture>
+      <picture title="Sequelize">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=sequelize&theme=light">
+        <img title="Sequelize" alt="Sequelize" width="48" src="https://skillicons.dev/icons?i=sequelize&theme=dark">
+      </picture>
+      <picture title="MySQL">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light">
+        <img title="MySQL" alt="MySQL" width="48" src="https://skillicons.dev/icons?i=mysql&theme=dark">
+      </picture>
+      <picture title="PostgreSQL">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres&theme=light">
+        <img title="PostgreSQL" alt="PostgreSQL" width="48" src="https://skillicons.dev/icons?i=postgres&theme=dark">
+      </picture>
+      <picture title="MongoDB">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb&theme=light">
+        <img title="MongoDB" alt="MongoDB" width="48" src="https://skillicons.dev/icons?i=mongodb&theme=dark">
       </picture>
     </td>
   </tr>
   <tr>
     <td align="right"><b>Testes e qualidade</b></td>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=jest,vitest,cypress,githubactions&theme=light">
-        <img alt="Jest, Vitest, Cypress, GitHub Actions" src="https://skillicons.dev/icons?i=jest,vitest,cypress,githubactions&theme=dark">
+      <picture title="Jest">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=jest&theme=light">
+        <img title="Jest" alt="Jest" width="48" src="https://skillicons.dev/icons?i=jest&theme=dark">
+      </picture>
+      <picture title="Vitest">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vitest&theme=light">
+        <img title="Vitest" alt="Vitest" width="48" src="https://skillicons.dev/icons?i=vitest&theme=dark">
+      </picture>
+      <picture title="Cypress">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cypress&theme=light">
+        <img title="Cypress" alt="Cypress" width="48" src="https://skillicons.dev/icons?i=cypress&theme=dark">
+      </picture>
+      <picture title="GitHub Actions">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=githubactions&theme=light">
+        <img title="GitHub Actions" alt="GitHub Actions" width="48" src="https://skillicons.dev/icons?i=githubactions&theme=dark">
       </picture>
     </td>
   </tr>
   <tr>
     <td align="right"><b>Ferramentas</b></td>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,figma,vscode,linux&theme=light">
-        <img alt="Git, GitHub, GitLab, Bitbucket, Docker, Figma, VS Code, Linux" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,figma,vscode,linux&theme=dark">
+      <picture title="Git">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light">
+        <img title="Git" alt="Git" width="48" src="https://skillicons.dev/icons?i=git&theme=dark">
+      </picture>
+      <picture title="GitHub">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light">
+        <img title="GitHub" alt="GitHub" width="48" src="https://skillicons.dev/icons?i=github&theme=dark">
+      </picture>
+      <picture title="GitLab">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gitlab&theme=light">
+        <img title="GitLab" alt="GitLab" width="48" src="https://skillicons.dev/icons?i=gitlab&theme=dark">
+      </picture>
+      <picture title="Bitbucket">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bitbucket&theme=light">
+        <img title="Bitbucket" alt="Bitbucket" width="48" src="https://skillicons.dev/icons?i=bitbucket&theme=dark">
+      </picture>
+      <picture title="Docker">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker&theme=light">
+        <img title="Docker" alt="Docker" width="48" src="https://skillicons.dev/icons?i=docker&theme=dark">
+      </picture>
+      <picture title="Figma">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=figma&theme=light">
+        <img title="Figma" alt="Figma" width="48" src="https://skillicons.dev/icons?i=figma&theme=dark">
+      </picture>
+      <picture title="VS Code">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light">
+        <img title="VS Code" alt="VS Code" width="48" src="https://skillicons.dev/icons?i=vscode&theme=dark">
+      </picture>
+      <picture title="Linux">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux&theme=light">
+        <img title="Linux" alt="Linux" width="48" src="https://skillicons.dev/icons?i=linux&theme=dark">
       </picture>
     </td>
   </tr>
