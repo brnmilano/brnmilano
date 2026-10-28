@@ -64,26 +64,26 @@
 <p align="center">
   <a href="https://github.com/brnmilano/design-system">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=brnmilano&repo=design-system&bg_color=ffffff&border_color=d0d7de&title_color=7c3aed&icon_color=2563eb&text_color=1f2328&cache_seconds=1800">
-      <img alt="design-system" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=brnmilano&repo=design-system&bg_color=0d1117&border_color=30363d&title_color=a78bfa&icon_color=60a5fa&text_color=c9d1d9&cache_seconds=1800">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brnmilano/brnmilano/main/assets/card-design-system-light.svg">
+      <img alt="design-system" width="49%" src="https://raw.githubusercontent.com/brnmilano/brnmilano/main/assets/card-design-system-dark.svg">
     </picture>
   </a>
   <a href="https://github.com/brnmilano/ignite-call">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=brnmilano&repo=ignite-call&bg_color=ffffff&border_color=d0d7de&title_color=7c3aed&icon_color=2563eb&text_color=1f2328&cache_seconds=1800">
-      <img alt="ignite-call" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=brnmilano&repo=ignite-call&bg_color=0d1117&border_color=30363d&title_color=a78bfa&icon_color=60a5fa&text_color=c9d1d9&cache_seconds=1800">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brnmilano/brnmilano/main/assets/card-ignite-call-light.svg">
+      <img alt="ignite-call" width="49%" src="https://raw.githubusercontent.com/brnmilano/brnmilano/main/assets/card-ignite-call-dark.svg">
     </picture>
   </a>
   <a href="https://github.com/brnmilano/pizza-shop">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=brnmilano&repo=pizza-shop&bg_color=ffffff&border_color=d0d7de&title_color=7c3aed&icon_color=2563eb&text_color=1f2328&cache_seconds=1800">
-      <img alt="pizza-shop" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=brnmilano&repo=pizza-shop&bg_color=0d1117&border_color=30363d&title_color=a78bfa&icon_color=60a5fa&text_color=c9d1d9&cache_seconds=1800">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brnmilano/brnmilano/main/assets/card-pizza-shop-light.svg">
+      <img alt="pizza-shop" width="49%" src="https://raw.githubusercontent.com/brnmilano/brnmilano/main/assets/card-pizza-shop-dark.svg">
     </picture>
   </a>
   <a href="https://github.com/brnmilano/claude-skills">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=brnmilano&repo=claude-skills&bg_color=ffffff&border_color=d0d7de&title_color=7c3aed&icon_color=2563eb&text_color=1f2328&cache_seconds=1800">
-      <img alt="claude-skills" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=brnmilano&repo=claude-skills&bg_color=0d1117&border_color=30363d&title_color=a78bfa&icon_color=60a5fa&text_color=c9d1d9&cache_seconds=1800">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brnmilano/brnmilano/main/assets/card-claude-skills-light.svg">
+      <img alt="claude-skills" width="49%" src="https://raw.githubusercontent.com/brnmilano/brnmilano/main/assets/card-claude-skills-dark.svg">
     </picture>
   </a>
 </p>

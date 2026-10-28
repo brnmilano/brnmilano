@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="190" viewBox="0 0 580 190" role="img" aria-label="claude-skills">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+    <linearGradient id="vgrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect x="1" y="1" width="578" height="188" rx="16"/></clipPath>
+    <style>
+      .font { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="578" height="188" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <g clip-path="url(#card)">
+    <circle cx="560" cy="20" r="170" fill="url(#glow)"/>
+    <rect x="1" y="1" width="5" height="188" fill="url(#vgrad)"/>
+  </g>
+
+  <g transform="translate(34 32)" fill="none" stroke="url(#grad)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 3.5A2.5 2.5 0 0 1 5.5 1H17v15H5.5A2.5 2.5 0 0 0 3 18.5z"/>
+    <path d="M3 18.5A2.5 2.5 0 0 0 5.5 21H17v-5"/>
+    <path d="M7 5h6"/>
+  </g>
+  <text class="font" x="64" y="50" font-size="22" font-weight="700" fill="#e6edf3">claude-skills</text>
+
+  <circle cx="491" cy="44" r="5" fill="#3572A5"/>
+  <text class="font" x="546" y="49" font-size="13" font-weight="600" text-anchor="end" fill="#8b949e">Python</text>
+
+  <text class="font" font-size="15" fill="#c9d1d9">
+    <tspan x="34" y="90">Skills pessoais do Claude Code: fluxo de trabalho, cards,</tspan>
+    <tspan x="34" y="112">MRs e automações do dia a dia versionadas.</tspan>
+  </text>
+
+  <g class="mono" font-size="12" font-weight="600">
+    <rect x="34" y="140" width="103" height="26" rx="13" fill="#161b22" stroke="url(#grad)" stroke-width="1.2"/>
+    <text x="86" y="157" text-anchor="middle" fill="#e6edf3">Claude Code</text>
+    <rect x="145" y="140" width="81" height="26" rx="13" fill="#161b22" stroke="url(#grad)" stroke-width="1.2"/>
+    <text x="186" y="157" text-anchor="middle" fill="#e6edf3">Workflow</text>
+    <rect x="234" y="140" width="73" height="26" rx="13" fill="#161b22" stroke="url(#grad)" stroke-width="1.2"/>
+    <text x="270" y="157" text-anchor="middle" fill="#e6edf3">Redmine</text>
+    <rect x="315" y="140" width="66" height="26" rx="13" fill="#161b22" stroke="url(#grad)" stroke-width="1.2"/>
+    <text x="348" y="157" text-anchor="middle" fill="#e6edf3">GitLab</text>
+  </g>
+</svg>
