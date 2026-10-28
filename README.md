@@ -17,8 +17,6 @@
   />
 </div> -->
 
----
-
 <div align="center">
   <h2>Minhas tecnologias</h2>
 </div>
