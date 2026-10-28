@@ -20,19 +20,6 @@
 ---
 
 <div align="center">
-  <h2>Projetos em andamento</h2>
-</div>
-
-<div align="center">
-
-[![condoapp](https://img.shields.io/badge/condoapp-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brnmilano/condoapp)
-[![venduo](https://img.shields.io/badge/venduo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brnmilano/venduo)
-
-</div>
-
----
-
-<div align="center">
   <h2>Minhas tecnologias</h2>
 </div>
 
