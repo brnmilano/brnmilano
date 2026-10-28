@@ -9,8 +9,7 @@
 <br>
 
 <p align="center">
-  Desenvolvedor full stack em Brasília-DF, com foco em front-end: <b>React</b>, <b>Next.js</b> e <b>TypeScript</b>.<br>
-  Gosto de componentes bem documentados, design systems, testes e fluxos de CI que deixam o time mais rápido.<br>
+  Desenvolvedor FullStack, com foco em Front-End: <b>React</b>, <b>Next.js</b> e <b>TypeScript</b>.<br>
   Atualmente construo sistemas web de grande porte para o setor público e exploro desenvolvimento com agentes de IA.
 </p>
 
